@@ -64,7 +64,7 @@ class _LocalMarketingPageState extends State<LocalMarketingPage> {
                             onPressed: () {},
                             color: Colors.blueAccent,
                             child: Text(
-                              "CONTACT",
+                              "CONTACT US",
                               style: contentNormalWhiteFontSize,
                             ),
                           ),
