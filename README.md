@@ -1,6 +1,6 @@
 # web_vision_app
 
-A new Flutter application.
+A new Flutter application. Live url:  https://sunny-aiub.github.io/ 
 
 ## Getting Started
 
